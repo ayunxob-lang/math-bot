@@ -41,7 +41,7 @@ def keep_alive():
 # 2. BOT VA AI SOZLAMALARI
 # =========================================================
 
-TOKEN = os.environ.get("BOT_TOKEN", "8978521062:AAH7XtT9-jV-ralxYF3FBzSpTRGOew6IB74")
+TOKEN = os.environ.get("BOT_TOKEN", "8748063084:AAEE-P33fEOkEKLcdDTURLm944UMYLI1bsA")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AQ.Ab8RN6J1eeka3V0fFxh0IwqytXOyxQVpQLPwjyYVz0qLbj1dIA")
 
 genai.configure(api_key=GEMINI_API_KEY)
